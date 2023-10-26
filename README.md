@@ -1,4 +1,4 @@
-# CafeteriaOrderingSystem
+# Cloud enabled Bookstore System
 
 INTRODUCTION
 1)Easy for customers to order book online and compare book items.
